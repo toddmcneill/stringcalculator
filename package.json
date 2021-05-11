@@ -1,0 +1,12 @@
+{
+  "name": "stringcalculator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "author": "Todd McNeill",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.4.0"
+  }
+}
